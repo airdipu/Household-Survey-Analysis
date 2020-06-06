@@ -2,8 +2,7 @@
 
 ## Introduction
 
-Sylhet district has been lagging behind many other districts with respect to maternal-newborn health (MNH) and family planning (FP)
-services. The Mamota project is being implementing in five Upazilas of the Sylhet district for ensuring quality healthcare services for
+This project is being implementing in five Upazilas of the Sylhet district for ensuring quality healthcare services for
 pregnant women and the newborn including family planning services. The baseline study intends to generate baseline value of the concerned indicators for understanding of the present situation of MNH‐FP services as well as for monitoring and evaluation of the project. 
 
 ## Data
