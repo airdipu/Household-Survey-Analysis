@@ -1,16 +1,16 @@
-## Household Survey Analysis
+# Household Survey Analysis
 
-# Introduction
+## Introduction
 
 Sylhet district has been lagging behind many other districts with respect to maternal-newborn health (MNH) and family planning (FP)
 services. The Mamota project is being implementing in five Upazilas of the Sylhet district for ensuring quality healthcare services for
 pregnant women and the newborn including family planning services. The baseline study intends to generate baseline value of the concerned indicators for understanding of the present situation of MNH‐FP services as well as for monitoring and evaluation of the project. 
 
-# Data
+## Data
 
-Can be accessed on request.
+Can be accessed in demand on request.
 
-# Research Design
+## Research Design
 
 The baseline study has used both quantitative and qualitative methods for collecting necessary data and information from the targeted
 respondents and stakeholders. The quantitative data regarding maternal, newborn health and family planning have mainly been collected
@@ -27,7 +27,7 @@ following techniques for collecting the necessary data and information:
 
 The study designs for quantitative and qualitative methods are categorically discussed below:
 
-# Quantitative Methods 
+## Quantitative Methods 
 
 A number of the baseline indicators, viz.,  antenatal care (ANC), postnatal care (PNC), Facility Delivery, delivery at home with skilled
 birth attendance (SBA), knowledge on danger signs during pregnancy and delivery, knowledge on danger signs for newborn, contraceptive
@@ -41,7 +41,7 @@ information of ANC, PNC, facility delivery, and SBA delivery at home.
 (b) Married women of reproductive age who are not pregnant at the survey point or not given any birth during the last 1 year for
 covering the information of contraceptive use and family planning related indicators
 
-# Sample Design
+## Sample Design
 
 Sampling technique and sample size estimation are the key activities undertaken while designing any research study. An adequate estimate
 (not less and not more) of sample size is important for ethical, scientific and logistic reasons. The units of analysis for the
