@@ -24,7 +24,7 @@ following techniques for collecting the necessary data and information:
 •	In-depth Interviews (IDI)
 •	Secondary data analysis
 
-The study designs for quantitative and qualitative methods are categorically discussed below:
+The study designs for quantitative methods are categorically discussed below:
 
 ## Quantitative Methods 
 
